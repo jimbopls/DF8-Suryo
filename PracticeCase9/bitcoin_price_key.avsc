@@ -1,0 +1,11 @@
+{
+  "namespace": "practicecase9.bitcoinprice.suryo",
+  "type": "record",
+  "name": "BitcoinPriceKey",
+  "fields": [
+    {
+      "name": "Date",
+      "type": "string"
+    }
+  ]
+}
